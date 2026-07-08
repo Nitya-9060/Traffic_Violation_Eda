@@ -12,12 +12,6 @@ It is an exploratory data analysis done on Indian traffic violation.Traffic viol
 - Exploratory Data Analysis
 - Key Insights
 - Visualizations
-- Project Structure
-- Installation
-- How to Run
-- Future Improvements
-- Conclusion
-- Author
 
 ---
 
