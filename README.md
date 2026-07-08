@@ -3,6 +3,7 @@ It is an exploratory data analysis done on Indian traffic violation.Traffic viol
 
 
 #Objectives of the data analysis:-
+
 a)Different types of violation occured
 b)Gender wise cateogories - which gender occured more violations
 c)Different type of rule violation
